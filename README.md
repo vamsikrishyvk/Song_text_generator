@@ -1,0 +1,1 @@
+One needs to run api.py as well as post_api.py , in order to get inference , argparse can be used to pass arguments for inference , can also change / modify the code as well for input , model screenshots of run can be found in gdrive here : 
