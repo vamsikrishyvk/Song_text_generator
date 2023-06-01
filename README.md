@@ -7,3 +7,6 @@ Pretrained Text generation model can be finetuned with gpt-2-simple also can be 
 
 
 ![Screenshot from 2023-06-01 12-35-29](https://github.com/vamsikrishyvk/Song_text_generator/assets/60051414/f8153895-6610-49f2-9141-665a5bb7db06)
+
+model checkpoint :
+![chkpt_run](https://github.com/vamsikrishyvk/Song_text_generator/assets/60051414/6e3ae29e-5699-424c-ba4a-518c1856ce15)
